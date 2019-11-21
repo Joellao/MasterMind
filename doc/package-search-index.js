@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"it.unicam.pa.mastermind"},{"l":"it.unicam.pa.mastermind.breaker"},{"l":"it.unicam.pa.mastermind.endgame"},{"l":"it.unicam.pa.mastermind.enums"},{"l":"it.unicam.pa.mastermind.factories"},{"l":"it.unicam.pa.mastermind.maker"},{"l":"it.unicam.pa.mastermind.view"}]
